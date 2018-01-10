@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DX8Hook", "DX8Hook.vcproj", "{93C958DD-0801-499A-9B00-F5658EB7AF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{93C958DD-0801-499A-9B00-F5658EB7AF0D}.Debug.ActiveCfg = Debug|Win32
+		{93C958DD-0801-499A-9B00-F5658EB7AF0D}.Debug.Build.0 = Debug|Win32
+		{93C958DD-0801-499A-9B00-F5658EB7AF0D}.Release.ActiveCfg = Release|Win32
+		{93C958DD-0801-499A-9B00-F5658EB7AF0D}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

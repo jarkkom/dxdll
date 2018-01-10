@@ -1,0 +1,4 @@
+LIBRARY D3D8
+DESCRIPTION "Direct 3D 8 tuubaa"
+EXPORTS
+	Direct3DCreate8=_Direct3DCreate8@4
